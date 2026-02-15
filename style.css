@@ -1,0 +1,201 @@
+html {
+    box-sizing: border-box;
+}
+#Egyptvideo {
+    position: fixed;      
+    inset: 0;             
+    width: 100vw;       
+    height: 100vh;        
+    object-fit: cover;    
+    z-index: -1; 
+    mask-repeat: no-repeat         
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+* {
+    box-sizing: inherit;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+body {
+    background: rgba(255, 255, 255, 0.74);
+    width: 90%;
+    max-width: 800px;
+    margin: 50px auto;
+    font-family: 'raleway';
+    padding: 20px;
+    border-radius: 10px;
+    
+
+}
+
+
+
+h1,
+p {
+    text-align: center;
+    margin: auto;
+}
+
+label {
+    display: block;
+    margin: 1em 0 .2em;
+}
+
+
+input,
+select,
+textarea {
+    display: block;
+    width: 100%;
+    padding: .3em;
+    font-size: 20px;
+    background-color: #fbfbfb;
+    border: solid 1px #CCC;
+    resize: vertical;
+    border-radius: 10px;
+}
+
+input[type="email"],
+input[type="tel"] {
+    margin-bottom: 1em;
+}
+
+textarea {
+    min-height: 180px;
+}
+
+select {
+    color: indigo;
+}
+
+option {
+    color: rgb(0, 0, 0);
+    background: rgb(255, 255, 255);
+}
+
+input[type=checkbox],
+input[type=radio] {
+    display: inline;
+    width: auto;
+}
+
+.inline-label {
+    display: inline;
+    width: auto;
+
+}
+
+input[type=submit],
+input[type=reset] {
+    background: rgb(27, 44, 141);
+    margin: 1em 0 0;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    transition: all .3s ease-out;
+
+
+}
+
+
+input:focus,
+input:hover,
+select:focus,
+select:hover,
+textarea:focus,
+textarea:hover {
+    background: rgb(197, 222, 238);
+}
+
+
+
+/* hover and focus states */
+input[type=submit]:hover,
+input[type=submit]:focus {
+    background: rgb(5, 129, 88);
+    outline: none;
+}
+
+input[type=reset]:hover,
+input[type=reset]:focus {
+    background: rgb(192, 3, 18);
+    outline: none;
+}
+
+.checkmark {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 25px;
+    width: 25px;
+    background-color: #eee;
+}
+
+input[type=submit]:hover,
+input[type=submit]:focus{
+    background: rgb(5, 129, 88);
+    outline: none;
+}
+input[type=reset]:hover,
+input[type=reset]:focus{
+    background: rgb(129, 3, 18);
+    outline: none;
+}
+h1{
+    text-align: left;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+p {
+    padding-right: 30%;
+    margin-right: 30%;
+    text-align: center;
+    width: 150%;
+    font-size:x-large;
+}
+
+
+nav ul
+{
+    background-color: sandybrown;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: seashell;
+    padding: 10px;
+    text-align: left;
+
+}
+nav ul li{
+    list-style-type: none;
+    display: inline;
+    margin-left: 10px;
+    color: papayawhip;
+}
+nav ul li a {
+    text-decoration: none;
+    color: olive;
+}
+
+div{
+    position: relative;
+    padding-bottom: 40;
+}
+body{
+    background-color:darkkhaki;
+    align-items: normal;
+    
+}
+img{
+    height: 100%;
+    width: 100%;
+    padding: left;
+    align-items: left;
+     border-radius: 30px;
+     position: relative;
+     margin-top: 10%;
+}
