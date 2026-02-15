@@ -1,0 +1,65 @@
+Travel Inquiry Form
+Thank you for allowing Virtuoso to research a fare for your upcoming trip. We will work to get you the best price available. Please fill out the Travel Inquiry Form in its entirety, and you will be contacted within 12 hours to discuss your Itinerary in Detail. 
+
+Name
+First Name
+Last Name
+E-mail
+ex: myname@example.com
+Phone Number
+ -
+Area Code
+Phone Number
+Number of Travelers? Adults? Children?
+ 
+Where would you like to Travel?
+What is your city of Departure?
+ 
+What is your Departure Date?
+07
+ -
+Month
+26
+ -
+Day
+2022
+Year
+Pick a DateDate Picker Icon
+What is your Return Date?
+07
+ -
+Month
+26
+ -
+Day
+2022
+Year
+Pick a DateDate Picker Icon
+What is your budget for this trip(per person)? **Please enter a Dollar Amount***
+E-mail
+ex: myname@example.com
+Do You Prefer All-Inclusive?
+
+YES
+
+NO
+
+DOESN'T MATTER
+What kind of payment arrangement would you like?
+
+BOOK NOW, PAY NOW
+
+DEPOSIT NOW, PAY INSTALLMENTS
+How will you travel?
+
+Plane
+
+Auto
+
+Other
+Have you receive any travel quotes for this itinerary?
+
+Yes
+
+No
+Upload QuoteNo file chosen
